@@ -1,0 +1,31 @@
+body{
+    margin:0;
+    padding:0;
+    min-height: 100vw;
+    font-family: 'Roboto', sans-serif;
+    font-family: sans-serif;
+    background-size: cover;
+    background-color: #FF0099;
+}
+.form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:40%;
+    padding:6rem;
+    background: white;
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+    border-radius: 10px;
+}
+button{
+    background-color: #FF0099;
+    width: 180px;
+    height: 30px;
+    color: aliceblue;
+    font-size: 15px;
+}
+a{
+    color: #FF0099;
+}
